@@ -1,4 +1,4 @@
-# 🌊 AI-Based Floating Plastic Waste Detection System
+# 🌊 Deep Learning - Based Floating Plastic Waste Detection System
 
 ## 📌 Overview
 This project is an AI-powered system for detecting floating plastic waste in water bodies using YOLO. 
